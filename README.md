@@ -1,4 +1,4 @@
-# Drips protocol V2 smart contracts
+#  Drips protocol V2 smart contracts 
 
 Drips is an EVM blockchain protocol for streaming and splitting ERC-20 tokens.
 See [docs](https://docs.drips.network) for a high-level introduction and documentation.
